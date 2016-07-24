@@ -2,6 +2,10 @@ package com.kraft.datalake.sales.tap.java;
 
 import org.joda.time.LocalTime;
 
+/**
+ * @author      Sharad Katta 
+ * @version     1.0 (current version number of program)
+ */
 public class SampleJavaClass {
 
 	public static void main(String[] args) {
